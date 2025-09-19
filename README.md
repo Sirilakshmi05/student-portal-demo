@@ -1,2 +1,6 @@
-# student-portal-demo
-student details demo
+Name : 
+Rollo No : 
+Suc :
+Section :
+Hall Ticket : 
+Attendence : 
